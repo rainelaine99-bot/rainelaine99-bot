@@ -20,4 +20,4 @@ I bridge the gap between financial accuracy, data-driven insights, and strategic
 *  **Marketing:** Meta Ads Manager, Content Strategy, Performance Analytics
 
 ---
-📫  **Let's Connect:** [LinkedIn Profile] (https://www.linkedin.com/in/evelyn-diaz-945463295)
+📫  **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/evelyn-diaz-945463295)
