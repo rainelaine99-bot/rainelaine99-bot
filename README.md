@@ -14,20 +14,15 @@ I bridge the gap between financial accuracy, data-driven insights, and strategic
 *  **Marketing:** Advertising with Meta
 *  **Marketing:** Measure and Optimize Social Media Marketing Campaigns
 
+## 🛠️Technical Toolbox
 ### 📊 Data & Analysis
-![SQL](https://shields.io)
-![Python](https://shields.io)
-![Tableau](https://shields.io)
+<img src="https://img.shields.io/badge/Google_Analytics-4285F4?style=flat&logo=googleanalytics&logoColor=white"> <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
 
-### 💰 Finance & Bookkeping
-![QuickBooks](https://shields.io)
-![Excel](https://shields.io)
+### 💰 Finance & Bookkeeping
+<img src="https://img.shields.io/badge/QuickBooks-2CA01C?style=flat&logo=quickbooks&logoColor=white"> <img src="https://img.shields.io/badge/Bookkeeping-0077B5?style=flat">
 
 ### 📱 Digital Marketing
-![Meta](https://shields.io)
-![Google Ads](https://shields.io)
-
-*  
+<img src="https://img.shields.io/badge/Meta_Ads-0668E1?style=flat&logo=meta&logoColor=white"> <img src="https://img.shields.io/badge/Social_Media-E4405F?style=flat&logo=instagram&logoColor=white">
 
 ---
-📫  **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/evelyn-diaz-945463295)
+📫 **Let's Connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
