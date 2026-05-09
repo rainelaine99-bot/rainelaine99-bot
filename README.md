@@ -19,17 +19,17 @@ I bridge the gap between financial accuracy, data-driven insights, and strategic
 ### 📈 S&P 500 Market Analysis: U.S. Economic Performance 2026
 *   *Goal:* Analyzed market trends and strategic portfolio data to project future growth for the S&P 500.
 *   *Key Results:* Developed a strategic portfolio strategy and identified key economic performance indicators for 2026.
-*   *View Report:* [Click here to view my Analysis Report](LINK_TO_YOUR_FILE_OR_PORTFOLIO)
+*   *View Report:* [Click here to view my Analysis Report](https://github.com/rainelaine99-bot/rainelaine99-bot/blob/main/S%26P%20500%20Market%20Analysis%20Report.pdf)
 
 ### 💰 QuickBooks Cleanup & Financial Reporting (Upwork)
 *   *Goal:* Reconciled 12+ months of financial data and generated essential financial reports for a service-based client.
 *   *Key Results:* Produced accurate *Balance Sheets*, *Statements of Cash Flow*, and *General Ledgers* to ensure 100% tax readiness.
-*   *View Case Study:* [View my Financial Reporting Portfolio](PASTE_YOUR_UPWORK_CATALOG_LINK_HERE)
+*   *View Case Study:* [View my Financial Reporting Portfolio](https://github.com/rainelaine99-bot/rainelaine99-bot/blob/main/Bookkeeping_Dec_Balance_Sheet-combined.pdf)
 
 ### 📱 Meta Ad Campaign Management: Calla & Ivy
 *   *Goal:* Designed and managed the "Fall Promo Campaign" to drive sales and brand engagement for a boutique floral brand.
 *   *Key Results:* Delivered comprehensive campaign reporting on audience reach, lead costs, and overall ROI.
-*   *View Results:* [View Calla & Ivy Campaign Presentation](PASTE_YOUR_LINK_HERE)
+*   *View Results:* [View Calla & Ivy Campaign Presentation](https://github.com/rainelaine99-bot/rainelaine99-bot/blob/main/Results%20Presentation%20Template.pptx)
 
 ### 📊 Data & Analysis
 <img src="https://img.shields.io/badge/Google_Analytics-4285F4?style=flat&logo=googleanalytics&logoColor=white"> <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
