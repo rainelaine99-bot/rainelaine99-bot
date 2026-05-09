@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Eve! 👋
 
-<!--
-**rainelaine99-bot/rainelaine99-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Multidisciplinary Professional | Data Analytics • Bookkeeping • Digital Marketing
+I bridge the gap between financial accuracy, data-driven insights, and strategic digital growth.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Professional Certifications
+*  **Data Analytics:** Google Data Analytics Professional Certificate
+*  **Finance:** Intuit Academy Bookkeeping Professional & Mastering QuickBooks Online
+*  **Marketing:** Introduction to Social Media Marketing
+*  **Marketing:** Social Media Management
+*  **Marketing:** Fundamental of Social Media Marketing
+*  **Marketing:** Advertising with Meta
+*  **Marketing:** Measure and Optimize Social Media Marketing Campaigns
+
+## 🛠️ Technical Toolbox
+*  **Analysis:** SQL, Python, Tableau, Google Data Studio
+*  **Finance:** QuickBooks Online, Financial Statement Analysis, Reconciliation
+*  **Marketing:** Meta Ads Manager, Content Strategy, Performance Analytics
+
+---
+📫  **Let's Connect:** [LinkedIn Profile] (https://www.linkedin.com/in/evelyn-diaz-945463295)
