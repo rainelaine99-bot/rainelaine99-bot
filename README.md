@@ -14,10 +14,20 @@ I bridge the gap between financial accuracy, data-driven insights, and strategic
 *  **Marketing:** Advertising with Meta
 *  **Marketing:** Measure and Optimize Social Media Marketing Campaigns
 
-## 🛠️ Technical Toolbox
-*  **Analysis:** SQL, Python, Tableau, Google Data Studio
-*  **Finance:** QuickBooks Online, Financial Statement Analysis, Reconciliation
-*  **Marketing:** Meta Ads Manager, Content Strategy, Performance Analytics
+### 📊 Data & Analysis
+![SQL](https://shields.io)
+![Python](https://shields.io)
+![Tableau](https://shields.io)
+
+### 💰 Finance & Bookkeping
+![QuickBooks](https://shields.io)
+![Excel](https://shields.io)
+
+### 📱 Digital Marketing
+![Meta](https://shields.io)
+![Google Ads](https://shields.io)
+
+*  
 
 ---
 📫  **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/evelyn-diaz-945463295)
