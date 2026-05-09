@@ -29,7 +29,7 @@ I bridge the gap between financial accuracy, data-driven insights, and strategic
 ### 📱 Meta Ad Campaign Management: Calla & Ivy
 *   *Goal:* Designed and managed the "Fall Promo Campaign" to drive sales and brand engagement for a boutique floral brand.
 *   *Key Results:* Delivered comprehensive campaign reporting on audience reach, lead costs, and overall ROI.
-*   *View Results:* [View Calla & Ivy Campaign Presentation](https://github.com/rainelaine99-bot/rainelaine99-bot/blob/main/Results%20Presentation%20Template.pptx)
+*   *View Results:* [View Calla & Ivy Campaign Presentation](https://github.com/rainelaine99-bot/rainelaine99-bot/blob/main/Results%20Presentation%20Template.pdf)
 
 ### 📊 Data & Analysis
 <img src="https://img.shields.io/badge/Google_Analytics-4285F4?style=flat&logo=googleanalytics&logoColor=white"> <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
